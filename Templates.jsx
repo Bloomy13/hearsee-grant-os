@@ -1,0 +1,11 @@
+import React from 'react'
+
+// GrantDetail — full component will be built in Session 3
+export default function GrantDetail() {
+  return (
+    <div style={{ maxWidth: 1100, margin: '0 auto', padding: 24 }}>
+      <p style={{ fontFamily: 'var(--hs-font-head)', fontSize: 22, fontWeight: 700, color: 'var(--hs-deep-vision-blue)', marginBottom: 8 }}>GrantDetail</p>
+      <p style={{ fontSize: 13, color: '#718096' }}>This screen is ready to be built. Run the next Claude session to generate the full component.</p>
+    </div>
+  )
+}
